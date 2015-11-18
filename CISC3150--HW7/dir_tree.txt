@@ -1,0 +1,45 @@
+└──CISC3140
+   └──graphics
+      └──background pictures (1024*768)
+      └──bg_pngs
+   └──hw1
+   └──hw2
+      └──3140hw2
+         └──3140hw2
+         └──3140hw2.xcodeproj
+            └──project.xcworkspace
+               └──xcuserdata
+                  └──guanxin.xcuserdatad
+            └──xcuserdata
+               └──guanxin.xcuserdatad
+                  └──xcschemes
+   └──pre-exams
+      └──CISC3140
+      └──Notes
+└──CISC3150
+   └──HW1
+   └──HW2
+   └──HW3
+   └──HW4
+   └──HW5
+      └──src
+         └──pkg1
+         └──pkg2
+   └──HW6
+      └──src
+   └──HW7
+└──CISC3230
+   └──homework solution
+   └──PPT FOR CISC3230
+└──CORC3208
+   └──assignment1
+   └──assignment2
+   └──assignment3
+   └──assignment4
+   └──assignment5
+└──MATH2501
+   └──assignment1
+   └──assignment2
+   └──assignment3
+   └──assignment4
+   └──old hw
