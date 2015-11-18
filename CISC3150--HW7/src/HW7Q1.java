@@ -1,8 +1,10 @@
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+//CISC3150
+//Xin Guan
+//11/18/15
 
-public class HW7Q1 {
+import java.io.*;
+
+public class HW7Q1{
 
     public static void main(String[] args) throws IOException {
     	
@@ -33,8 +35,3 @@ public class HW7Q1 {
     }
     
 }
-
-
-
-
-
